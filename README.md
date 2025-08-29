@@ -1,10 +1,13 @@
-Lista de Exercícios de Lógica de Programação
+💻 **Lista de Exercícios de Lógica de Programação**
+
 Este repositório contém uma coleção de exercícios de lógica de programação resolvidos utilizando o VisualG. Os exercícios foram desenvolvidos para ajudar no aprendizado e na prática de conceitos fundamentais como variáveis, estruturas de controle (decisão e repetição), operadores lógicos e aritméticos.
 
-Sobre o VisualG
+📂 **Sobre o VisualG**
+
 O VisualG é um software livre e de código aberto que atua como um interpretador e editor de pseudocódigo. Ele foi criado com o objetivo de facilitar o aprendizado de algoritmos e lógica de programação. Por ser leve e intuitivo, é uma excelente ferramenta para iniciantes que desejam se familiarizar com a sintaxe de programação sem a complexidade de uma linguagem de programação real.
 
-Estrutura do Repositório
+🚀 **Estrutura do Repositório**
+
 Cada exercício está em um arquivo separado, nomeado de forma descritiva para facilitar a localização. A estrutura de nomenclatura segue o padrão Exercicio_XX_NomeDescritivo.alg, onde XX é o número do exercício.
 
 Exemplo:
@@ -26,16 +29,20 @@ Abra o arquivo desejado (.alg) no VisualG.
 
 Pressione F9 ou clique no botão "Executar" para ver o resultado do algoritmo.
 
-Dicas para Estudo
+🧠 **Dicas para Estudo**
+
 Não se limite a copiar: O objetivo principal é entender a lógica por trás de cada solução. Tente resolver os exercícios por conta própria antes de olhar a resposta.
 
 Analise o código: Após resolver ou olhar a solução, analise cada linha. Entenda por que determinada variável foi usada ou por que uma estrutura de repetição é a melhor escolha para o problema.
 
 Experimente: Altere os valores, mude as condições e veja o que acontece. A melhor forma de aprender é testando e errando.
 
-Contato
+✉️**Contato**
+
 Se você tiver alguma dúvida, sugestão ou quiser discutir alguma solução, sinta-se à vontade para entrar em contato comigo.
 
 Nome: Luiz Fellipe Silva Fagundes
+
 E-mail: fellipeluiz2027@gmail.com
+
 GitHub: (https://github.com/luiz-fsfag)
